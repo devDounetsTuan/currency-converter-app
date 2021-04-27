@@ -16,6 +16,6 @@
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "nodemon": "^2.0.2",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
